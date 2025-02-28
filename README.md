@@ -1,3 +1,7 @@
+**Before trying the method in INSTALL file, you can try run the ./install.sh to automate the process.**
+
+Read the text below before continuing.
+
 This repository tracks patches needed to build VMware (Player and
 Workstation) host modules against recent kernels. As it focuses on recent
 kernels (older ones do not need patching), only vmmon and vmnet modules are
