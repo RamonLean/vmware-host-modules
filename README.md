@@ -1,6 +1,6 @@
 
 
-**To get the patch for VMware Workstation 17.6.2 click access this link: https://github.com/RamonLean/vmware-host-modules/tree/workstation-17.6.2**
+**To get the patch for VMware Workstation 17.6.2 access this link: https://github.com/RamonLean/vmware-host-modules/tree/workstation-17.6.2**
 
 This repository tracks patches needed to build VMware (Player and
 Workstation) host modules against recent kernels. As it focuses on recent
