@@ -1,5 +1,7 @@
 **Before trying the method in INSTALL file, you can try run the ./install.sh to automate the process.**
 
+Note that you need to install the gcc and the linux-headers in your system before starts the patching process.
+
 Read the text below before continuing.
 
 This repository tracks patches needed to build VMware (Player and
